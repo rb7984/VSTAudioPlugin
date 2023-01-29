@@ -1,0 +1,7 @@
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin1.csproj.AssemblyReference.cache
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin.UI.PluginEditorView.resources
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin1.csproj.GenerateResource.cache
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin1.AssemblyInfoInputs.cache
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin1.AssemblyInfo.cs
+C:\Users\riccardo\source\repos\VstNetAudioPlugin1\VstNetAudioPlugin1\obj\x64\Debug\net5.0\VstNetAudioPlugin1.csproj.CoreCompileInputs.cache
